@@ -1,4 +1,4 @@
-# Projeto Alura Plus.
+<h1 align="center">Projeto Alura Plus</h1>
 
 ![image](img/foto-projeto.png)
 
