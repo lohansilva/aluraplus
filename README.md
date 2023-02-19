@@ -1,6 +1,6 @@
 # Projeto Alura Plus.
 
-![image](assets/foto-projeto.png)
+![image](img/foto-projeto.png)
 
 ## Ferramentas utilizadas:
 
